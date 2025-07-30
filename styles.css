@@ -1,0 +1,193 @@
+.knowledge-ark-ribbon-class {
+  color: #4CAF50;
+}
+
+.knowledge-ark-header {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 16px;
+  border-bottom: 1px solid var(--divider-color);
+}
+
+.knowledge-ark-button {
+  padding: 8px 16px;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.knowledge-ark-button.primary {
+  background-color: var(--interactive-accent);
+  color: var(--text-on-accent);
+}
+
+.knowledge-ark-button.secondary {
+  background-color: var(--background-secondary-alt);
+  color: var(--text-normal);
+  border: 1px solid var(--divider-color);
+}
+
+.knowledge-ark-button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.knowledge-ark-metrics {
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.knowledge-ark-score {
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.knowledge-ark-score.healthy {
+  color: #4CAF50;
+}
+
+.knowledge-ark-score.warning {
+  color: #FFC107;
+}
+
+.knowledge-ark-score.critical {
+  color: #F44336;
+}
+
+.knowledge-ark-atom-count,
+.knowledge-ark-connection-density {
+  font-size: 1.1em;
+}
+
+.knowledge-ark-results {
+  padding: 16px;
+}
+
+.knowledge-ark-placeholder {
+  text-align: center;
+  color: var(--text-muted);
+  font-style: italic;
+  margin: 32px 0;
+}
+
+.knowledge-ark-card {
+  border: 1px solid var(--divider-color);
+  border-radius: 4px;
+  margin-bottom: 16px;
+  overflow: hidden;
+}
+
+.knowledge-ark-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 16px;
+  background-color: var(--background-secondary);
+  cursor: pointer;
+}
+
+.knowledge-ark-card-title {
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.knowledge-ark-card-badge {
+  background-color: var(--interactive-accent);
+  color: var(--text-on-accent);
+  border-radius: 12px;
+  padding: 2px 8px;
+  font-size: 0.8em;
+}
+
+.knowledge-ark-card-description {
+  color: var(--text-muted);
+  font-size: 0.9em;
+  margin-top: 4px;
+}
+
+.knowledge-ark-card-toggle {
+  background: none;
+  border: none;
+  font-size: 1.2em;
+  cursor: pointer;
+  color: var(--text-muted);
+}
+
+.knowledge-ark-card-content {
+  padding: 16px;
+  background-color: var(--background-primary);
+}
+
+.knowledge-ark-issue-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.knowledge-ark-issue-table th,
+.knowledge-ark-issue-table td {
+  padding: 8px 12px;
+  text-align: left;
+  border-bottom: 1px solid var(--divider-color);
+}
+
+.knowledge-ark-issue-table th {
+  background-color: var(--background-secondary);
+  font-weight: bold;
+}
+
+.knowledge-ark-issue-table tr:hover {
+  background-color: var(--background-secondary);
+}
+
+.knowledge-ark-issue-context {
+  font-family: monospace;
+  font-size: 0.9em;
+  background-color: var(--code-background);
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+.knowledge-ark-issue-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.knowledge-ark-issue-button {
+  padding: 4px 8px;
+  border-radius: 4px;
+  border: 1px solid var(--divider-color);
+  background-color: var(--background-primary);
+  cursor: pointer;
+  font-size: 0.9em;
+}
+
+.knowledge-ark-export-button {
+  margin-top: 16px;
+  padding: 8px 16px;
+  background-color: var(--interactive-accent);
+  color: var(--text-on-accent);
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.knowledge-ark-tooltip {
+  position: absolute;
+  background-color: var(--background-secondary);
+  color: var(--text-normal);
+  border: 1px solid var(--divider-color);
+  border-radius: 4px;
+  padding: 8px 12px;
+  font-size: 0.9em;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  z-index: 1000;
+  max-width: 300px;
+  white-space: normal;
+  word-wrap: break-word;
+}
