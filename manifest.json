@@ -4,7 +4,7 @@
 	"version": "0.1.0",
 	"minAppVersion": "0.15.0",
 	"description": "为深度知识工作者提供一套智能诊断与优化工具，帮助他们将Obsidian知识库从一个静态的\"信息坟场\"，转变为一个结构化、可计算、并能与未来AI无缝协作的\"活水系统\"。Provide a set of intelligent diagnostic and optimization tools for deep knowledge workers, helping them transform their Obsidian knowledge base from a static \"information graveyard\" into a structured, computable \"living system\" that can seamlessly collaborate with future AI.",
-	"author": "Silence",
+	"author": "Chailet",
 	"authorUrl": "https://obsidian.md",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
