@@ -13,6 +13,9 @@ Provide a set of intelligent diagnostic and optimization tools for deep knowledg
   - Predicate consistency check
 - Customizable diagnostic parameters and export templates
 
+<img width="550" height="807" alt="image" src="https://github.com/user-attachments/assets/c87c5eae-f779-4360-912f-598274a830a0" />
+
+
 ## Installation
 
 1. In Obsidian, go to Settings > Third-party plugins
