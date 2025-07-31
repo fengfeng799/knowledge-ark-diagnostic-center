@@ -16,7 +16,7 @@
 
 ### 📝 报告Bug或提出建议 (Reporting Bugs & Suggesting Enhancements)
 
--   在您提交一个新的 [**Issue**]([此处是你的GitHub Issues链接]) 之前，请先搜索一下，确保没有重复的问题。
+-   在您提交一个新的 [**Issue**](https://github.com/fengfeng799/knowledge-ark-diagnostic-center/issues) 之前，请先搜索一下，确保没有重复的问题。
 -   **对于Bug报告**：请尽可能提供详细的信息，包括：您使用的Obsidian版本、插件版本、操作系统，以及最关键的**“可复现步骤”**。如果能附上截图或录屏，那就再好不过了。
 -   **对于功能建议**：请清晰地描述您希望实现的功能，以及**“它能解决什么问题”**和**“为什么它很重要”**。我们更关注功能背后的“用户故事”和“价值主张”。
 
