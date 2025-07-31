@@ -150,7 +150,7 @@ See https://github.com/obsidianmd/obsidian-api
 这座方舟，需要更多志同道合的“建筑师”和“航海家”。我们坚信，开源不仅仅是开放代码，更是开放思想、汇聚智慧的过程。
 
 *   **报告Bug或提出建议**: 如果你发现了任何问题，或有绝妙的想法，请在 [GitHub Issues](https://github.com/fengfeng799/knowledge-ark-diagnostic-center/issues) 中告诉我们。
-*   **贡献代码**: 我们欢迎任何形式的Pull Request。请先阅读我们的[贡献指南]([此处是你的贡献指南链接])。
+*   **贡献代码**: 我们欢迎任何形式的Pull Request。请先阅读我们的[贡献指南](https://github.com/fengfeng799/knowledge-ark-diagnostic-center/blob/main/CONTRIBUTING.md)。
 *   **加入讨论**: [此处可以是你为项目创建的Discord或Telegram群组链接]，在这里，我们可以一起探讨个人知识管理、AI共生以及“主权个人”的未来。
 
 **如果你对这份README背后的哲学——那套关于“构建能抵御风暴的个人价值系统”的思考——产生了强烈的共鸣，那么，你可能就是我们正在寻找的那个“同路人”。请不要犹豫，通过[fengfeng799@gmail.com]联系我。让我们一起，将这艘方舟，建造得更坚固。**
