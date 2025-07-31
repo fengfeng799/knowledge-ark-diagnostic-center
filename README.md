@@ -68,7 +68,7 @@ See https://github.com/obsidianmd/obsidian-api
   <a href="https://github.com/fengfeng799/knowledge-ark-diagnostic-center"><strong>立即体验</strong></a> •
   <a href="#核心哲学活水笔记法"><strong>阅读我们的哲学</strong></a> •
   <a href="#core-features"><strong>探索功能</strong></a> •
-  <a href="如何贡献"><strong>成为共建者</strong></a>
+  <a href="#how-to-contribute"><strong>成为共建者</strong></a>
 </p>
 
 ---
@@ -145,7 +145,7 @@ See https://github.com/obsidianmd/obsidian-api
 
 ---
 
-## ❤️ 如何贡献 & 成为共建者
+## <a id="how-to-contribute"></a> ❤️ 如何贡献 & 成为共建者
 
 这座方舟，需要更多志同道合的“建筑师”和“航海家”。我们坚信，开源不仅仅是开放代码，更是开放思想、汇聚智慧的过程。
 
