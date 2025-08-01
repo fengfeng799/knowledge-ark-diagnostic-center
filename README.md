@@ -68,7 +68,7 @@ See https://github.com/obsidianmd/obsidian-api
 </p>
 
 <p align="center">
-  <a href="[此处未来可以放您的发布链接]"><strong>立即安装</strong></a> •
+  <a href="https://github.com/fengfeng799/knowledge-ark-diagnostic-center"><strong>立即安装</strong></a> •
   <a href="#核心功能"><strong>功能概览</strong></a> •
   <a href="#使用场景"><strong>谁适合使用？</strong></a> •
   <a href="#快速开始"><strong>快速开始</strong></a>
