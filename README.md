@@ -139,8 +139,8 @@ See https://github.com/obsidianmd/obsidian-api
 “知识方舟”是一个开放、由社区驱动的项目。我们欢迎任何形式的贡献。
 
 -   **[报告Bug或提出建议 (GitHub Issues)](https://github.com/fengfeng799/knowledge-ark-diagnostic-center/discussions)**
--   **[贡献代码 (CONTRIBUTING.md)](CONTRIBUTING.md)**
 -   **[加入我们的讨论区 (GitHub Discussions)](https://github.com/fengfeng799/knowledge-ark-diagnostic-center/issues)**
+-   **[共建说明 (CONTRIBUTING.md)](CONTRIBUTING.md)**
 
 > **关于我们背后更深层的思考：**
 > 如果你对“知识方舟”这个名字背后的、关于“个体如何在AI时代构建思想主权”的哲学思考感兴趣，欢迎阅读我们的“奠基性文章”：[**《活水笔记法：一套为AI共生时代设计的个人知识库构建指南》**](《活水笔记法：一套为AI共生时代设计的个人知识库构建指南》.md)。在这里，你会找到我们所有设计的“初心”。
