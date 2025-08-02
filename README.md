@@ -60,7 +60,7 @@ See https://github.com/obsidianmd/obsidian-api
 # 知识方舟诊断中心 (Knowledge Ark Diagnostic Center)
 
 <p align="center">
-  <img src="[此处未来可以放一个您设计的Logo]" alt="Knowledge Ark Logo" width="150"/>
+  <img width="160" height="180" alt="Knowledge Ark" src="https://github.com/user-attachments/assets/5883ed6e-92cf-47d9-a1ca-9f782e948f11" />
 </p>
 
 <p align="center">
