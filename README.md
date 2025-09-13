@@ -1,3 +1,41 @@
+## 📋 2025.09.13 功能更新说明
+
+### 中文版
+
+#### 🎯 状态栏改进
+- **智能状态显示**：状态栏现在显示更清晰的诊断状态，包括"健康"、"发现问题"等直观描述
+- **一键快速访问**：点击状态栏可直接打开诊断中心，查看详细结果
+
+#### 🔍 诊断卡片增强
+- **"重检"功能**：每个诊断卡片新增"重检"按钮，可单独检查该文件的所有问题
+- **智能清理**：重检后自动移除已修复的问题卡片，只保留仍需关注的问题
+- **不影响其他文件**：重检操作仅针对当前文件，不会触发全盘诊断
+
+#### 📊 健康笔记列表优化
+- **领域展示**：将"标签"列改为显示更实用的"领域"信息
+- **智能排序**：点击任意列表头可按字母/拼音排序，再次点击切换升/降序
+- **视觉反馈**：排序时显示箭头指示当前排序方向和状态
+
+---
+
+### English Version
+
+#### 🎯 Status Bar Improvements
+- **Smart Status Display**: Status bar now shows clearer diagnostic states like "Healthy" or "Issues Found"
+- **One-click Access**: Click the status bar to instantly open the diagnostic center
+
+#### 🔍 Diagnostic Cards Enhancement
+- **"Recheck" Feature**: Added "Recheck" button to each diagnostic card for individual file inspection
+- **Smart Cleanup**: Automatically removes fixed issues after recheck, keeping only unresolved ones
+- **File-specific**: Recheck only affects the current file without triggering full diagnosis
+
+#### 📊 Healthy Notes List Optimization
+- **Domain Display**: Replaced "Tags" column with more useful "Domain" information
+- **Smart Sorting**: Click any column header to sort alphabetically/pinyin, click again to toggle asc/desc
+- **Visual Feedback**: Arrow indicators show current sort direction and status
+
+---
+
 # Knowledge Ark Diagnostic Center
 A professional diagnostic and optimization tool that helps you upgrade your knowledge base from a "note collection folder" to a "high-precision personal knowledge graph".
 
