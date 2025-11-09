@@ -1,7 +1,7 @@
 {
 	"name": "knowledge-ark-diagnostic-center",
 	"version": "0.1.0",
-	"description": "Provide a set of intelligent diagnostic and optimization tools for deep knowledge workers, helping them transform their knowledge base from a static \"information graveyard\" into a structured, computable \"living system\" that can seamlessly collaborate with future AI.",
+	"description": "A professional diagnostic and optimization tool that helps you upgrade your knowledge base from a \"note collection folder\" to a \"high-precision personal knowledge graph\".",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
